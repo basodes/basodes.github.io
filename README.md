@@ -1,1 +1,1 @@
-basodes.github.io
+https://basodes.github.io/
